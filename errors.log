@@ -1,0 +1,500 @@
+SKIPPED [transaction_id=c92d6054-98ea-4d5d-a74a-1913c85f78fa] reason=negative quantity (-7)
+SKIPPED [transaction_id=26c52b7d-318c-4708-a9e7-b1ade6020fe9] reason=negative quantity (-6)
+SKIPPED [transaction_id=50eebfb4-2cbd-43c3-a288-5d1bbd34f50d] reason=negative quantity (-10)
+SKIPPED [transaction_id=88c79ca9-1bac-4c7b-b00a-824ec9d4f428] reason=missing quantity
+SKIPPED [transaction_id=5716990c-3d06-4744-998c-fd201a02fc61] reason=missing product name
+SKIPPED [transaction_id=e235b7db-a7d0-484c-9e3e-aba0f1778bb6] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=2eccafd8-3365-46a9-b591-c91e93713c17] reason=missing product name
+SKIPPED [transaction_id=2bea1ceb-e56d-4f1d-9870-b05c44c386ee] reason=missing quantity
+SKIPPED [transaction_id=7c66251b-d505-4c98-bf09-3e6ff8938b9c] reason=missing product name
+SKIPPED [transaction_id=d9eb290a-23db-4ef4-942a-fd3075f01a6f] reason=missing quantity
+SKIPPED [transaction_id=0a835ace-81b5-4c84-b806-fe09d5391283] reason=missing quantity
+SKIPPED [transaction_id=96e9f78e-e696-4481-997a-1d7ba92e5b2e] reason=negative quantity (-9)
+SKIPPED [transaction_id=ff23ea9a-4763-4638-9de8-32133b961a13] reason=negative quantity (-10)
+SKIPPED [transaction_id=16e20f66-19db-40cf-943f-d1cdb2937c95] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=ea85be55-9691-4c42-9c00-db718ca23b61] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=da79b216-4e0e-49c8-8ebe-30cea3e58c59] reason=missing quantity
+SKIPPED [transaction_id=f647cc07-d454-43cf-9330-1df12e30ec1d] reason=negative quantity (-10)
+SKIPPED [transaction_id=cf1390f9-c41a-4876-871a-4cb10eafbffc] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=6ea3d222-4d96-4b15-955a-8f0a82278925] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=f50ea911-6358-4cb9-82e2-b55b48496ac4] reason=missing quantity
+SKIPPED [transaction_id=e2ee02fe-05e5-4deb-bc0d-ec7538046e3d] reason=missing quantity
+SKIPPED [transaction_id=c6500260-765d-47f4-8dc4-baa78d15b535] reason=missing quantity
+SKIPPED [transaction_id=45e171f4-0a0b-4838-b26d-1f8a6373a79d] reason=missing quantity
+SKIPPED [transaction_id=fafa5108-f208-439b-ac52-7f5a21605939] reason=missing product name
+SKIPPED [transaction_id=24db6dcd-38b3-4806-bdfe-06ace894d2e4] reason=negative quantity (-2)
+SKIPPED [transaction_id=aa3aeac5-2ae7-46bc-8cb6-2a55f984b5ae] reason=negative quantity (-10)
+SKIPPED [transaction_id=07607ca4-58cc-4788-9e15-eb6c07176b22] reason=negative quantity (-7)
+SKIPPED [transaction_id=a0d68b0f-2114-45d1-b9cb-702231344258] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=c5cef2cc-6e4f-455f-a0ec-7e876134ac85] reason=missing quantity
+SKIPPED [transaction_id=48c25da4-3f80-4cee-9a4f-6dd083ce622a] reason=missing quantity
+SKIPPED [transaction_id=2ee78ebe-78fa-416e-b1ac-b7a2f6c9f18b] reason=missing product name
+SKIPPED [transaction_id=6b1bea41-4c43-458c-9b55-c5fa144e3257] reason=missing product name
+SKIPPED [transaction_id=977df00e-185f-4513-93d1-99364419c7b4] reason=negative quantity (-1)
+SKIPPED [transaction_id=105f0a24-b724-4d2f-b1c1-c9a28862181d] reason=missing product name
+SKIPPED [transaction_id=81913075-d16b-4854-9301-086c072c89bc] reason=missing quantity
+SKIPPED [transaction_id=a8771939-3f56-49c6-9259-9c659c36edcb] reason=missing product name
+SKIPPED [transaction_id=b534f03d-4128-423e-8e91-7b5153220f3b] reason=missing product name
+SKIPPED [transaction_id=98998429-d57e-46f0-9d28-4ba19988a40f] reason=missing quantity
+SKIPPED [transaction_id=d6f0d67e-2c1b-43d7-83f0-096f2ffe0837] reason=missing quantity
+SKIPPED [transaction_id=e488daae-a1be-4b0a-ba9d-c3e524568efd] reason=missing quantity
+SKIPPED [transaction_id=c5076260-69ac-4654-af89-2b8b5fd82813] reason=missing product name
+SKIPPED [transaction_id=1caecb63-0493-46e1-b9e7-1324898fce4a] reason=missing product name
+SKIPPED [transaction_id=335b48fe-9f63-4c4c-9dbc-42272b9475d8] reason=missing quantity
+SKIPPED [transaction_id=e3cb5202-a774-4ccd-9149-a0db1342a5cf] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=90f387d1-7e96-4dcf-98db-b098c4c65cb1] reason=missing product name
+SKIPPED [transaction_id=bb2462ae-a3dc-45cb-854e-cbe7163082a0] reason=missing product name
+SKIPPED [transaction_id=7a84f20c-b7fa-4f8a-a287-72dd37c8a2a9] reason=missing quantity
+SKIPPED [transaction_id=536ac1cd-949e-4dd4-9f62-3f8102c376d9] reason=missing product name
+SKIPPED [transaction_id=96dc2040-0de6-4190-badd-688ca964417f] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=481abbd7-69c0-4dd4-a6e6-253c5b7ba186] reason=negative quantity (-10)
+SKIPPED [transaction_id=38997009-8abc-481e-a074-67229d573183] reason=missing quantity
+SKIPPED [transaction_id=8995218e-a4e1-4b12-98ca-a14e5c14c66a] reason=negative quantity (-8)
+SKIPPED [transaction_id=4574e6fb-70a6-4d65-952a-f9532aaca383] reason=missing quantity
+SKIPPED [transaction_id=13a2c200-6ce0-457a-b659-fe80e24b79be] reason=negative quantity (-8)
+SKIPPED [transaction_id=ec0eee42-1ca0-4075-b403-68328cf8f18a] reason=missing product name
+SKIPPED [transaction_id=4b03a38d-d4a4-4795-b073-77251af62f95] reason=negative quantity (-8)
+SKIPPED [transaction_id=7fb20835-f75a-41c3-8d6c-3ea88e27cdab] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=9c097289-da32-40d3-836d-037fda2740ec] reason=missing quantity
+SKIPPED [transaction_id=291815fd-803c-44d5-9c14-1e523fb22fea] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=2b458d64-cb04-499c-a1a0-5382476699c7] reason=missing quantity
+SKIPPED [transaction_id=ffafe7b0-c6f6-433d-ac1b-e10f9a496169] reason=negative quantity (-5)
+SKIPPED [transaction_id=3e9cf91a-1547-46ac-a665-1140be282c02] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=9947aec3-7c88-41a1-a667-9aa4e5bed7a3] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=f9335b65-6a0b-46e7-a255-153fcb3a8b41] reason=missing product name
+SKIPPED [transaction_id=2d5e83bc-bb73-4e6e-a764-b578f3535868] reason=missing quantity
+SKIPPED [transaction_id=dc75c562-4844-4803-83c5-eb1bfb5e524e] reason=missing quantity
+SKIPPED [transaction_id=0ea366b1-f808-4b68-8292-e050ce547fa0] reason=missing product name
+SKIPPED [transaction_id=3e5fa3c8-af3a-4003-a975-1f0a1a2d7b09] reason=missing quantity
+SKIPPED [transaction_id=70ccd7fa-7fed-4cdc-b31d-510d51e29f8c] reason=missing product name
+SKIPPED [transaction_id=1f45f63f-2978-44a8-9418-7abe34116b43] reason=negative quantity (-5)
+SKIPPED [transaction_id=daeae827-b752-40ed-a735-35a98eea1ebe] reason=negative quantity (-8)
+SKIPPED [transaction_id=8744fe22-10b5-440b-b7a0-d24c9abd8afc] reason=negative quantity (-8)
+SKIPPED [transaction_id=cd4cb19a-7aab-404c-aef0-ed5fde14ff3a] reason=negative quantity (-10)
+SKIPPED [transaction_id=a42052d0-b571-4e8a-8d26-faa94cdf4000] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=a2f89399-a8a8-4d67-99ec-075406901feb] reason=missing product name
+SKIPPED [transaction_id=d861ec45-d11f-4277-abad-876802a25e27] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=a1034f29-875e-4a18-b4c1-fe0ad50a6a7b] reason=missing product name
+SKIPPED [transaction_id=bb6dc61b-ae15-43e7-81bc-713e3ba3abb6] reason=missing product name
+SKIPPED [transaction_id=4e8246ba-9d9b-405c-86b5-daf43e192834] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=adf1d7af-86dc-43ae-a279-3d76a7860490] reason=negative quantity (-9)
+SKIPPED [transaction_id=9d4be960-2dd8-4d00-bfb6-11d0fc8551a7] reason=negative quantity (-6)
+SKIPPED [transaction_id=ce40936d-c8a5-49fc-b7db-7e6262b84704] reason=negative quantity (-7)
+SKIPPED [transaction_id=f5f1ab2d-7ac3-4f40-b699-f44aaff8ec28] reason=missing quantity
+SKIPPED [transaction_id=1cf52a52-8e9a-4234-aed7-fd9d5ee2e568] reason=missing product name
+SKIPPED [transaction_id=d638884e-6a3d-44fc-862c-ed646f8cb9fb] reason=missing quantity
+SKIPPED [transaction_id=a02d1781-fc6c-4e4a-8162-517054954502] reason=negative quantity (-2)
+SKIPPED [transaction_id=ebf8d727-c70a-4592-86af-c61fa5353c2f] reason=negative quantity (-5)
+SKIPPED [transaction_id=c23b21b3-4a0f-42b7-b59d-38a788b43466] reason=negative quantity (-1)
+SKIPPED [transaction_id=67d65e81-d873-4091-b39f-e4be3eb31fdc] reason=negative quantity (-5)
+SKIPPED [transaction_id=edfbdf56-06ed-4167-b74f-98eb0bbee2fd] reason=negative quantity (-7)
+SKIPPED [transaction_id=b963535b-2a26-4a57-8406-b927d8184d67] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=4c221cf0-4a36-4c48-9b3e-117b45f9b733] reason=missing product name
+SKIPPED [transaction_id=88b1a266-4458-41b3-8624-4cbe23b26d4a] reason=negative quantity (-4)
+SKIPPED [transaction_id=d2372e74-7916-40de-b266-bdb02fc4803a] reason=missing product name
+SKIPPED [transaction_id=bc2314cd-2a9f-46f3-a74c-ca1bd53d693e] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=aa75cb3a-58a2-46de-9097-321f1d9a7c63] reason=missing product name
+SKIPPED [transaction_id=59643d11-6f3e-47bc-91a2-56ca11af94d5] reason=missing product name
+SKIPPED [transaction_id=960b9a66-f92e-402b-a5f8-7b16641bd1b8] reason=missing quantity
+SKIPPED [transaction_id=d52c74d7-cabf-47c6-8293-fa7ae1ca01cd] reason=negative quantity (-6)
+SKIPPED [transaction_id=5d8f9a97-a4a8-4866-a959-79c4602f86b1] reason=negative quantity (-6)
+SKIPPED [transaction_id=fa0e787c-a996-4f28-924e-15da9209c92b] reason=negative quantity (-5)
+SKIPPED [transaction_id=f71a199d-3596-4788-88f6-fa027c9ab875] reason=missing quantity
+SKIPPED [transaction_id=0861c162-7697-4b1e-b2fa-66335b6f1d95] reason=missing quantity
+SKIPPED [transaction_id=b5442721-9f68-4827-800f-887420d00a7c] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=204af360-c6bc-4342-942c-021b75785d5a] reason=negative quantity (-4)
+SKIPPED [transaction_id=46bca9aa-bac9-4ce0-82e0-d1ea44e2b218] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=70d08cde-31e1-476d-8ade-10bb9e45e2d4] reason=negative quantity (-1)
+SKIPPED [transaction_id=5c6f9c38-450a-4422-b349-d55eb5852a87] reason=missing quantity
+SKIPPED [transaction_id=5179710e-83f4-4112-8c29-c7c33006e78a] reason=missing product name
+SKIPPED [transaction_id=e43c9898-27e8-40fe-bd5c-8924fd6ae7cd] reason=missing product name
+SKIPPED [transaction_id=09db5d53-514c-4e70-8aa7-06b09634edeb] reason=missing quantity
+SKIPPED [transaction_id=059f0412-da38-49ad-aa63-4bb1897182fc] reason=negative quantity (-9)
+SKIPPED [transaction_id=6c7b060b-8b33-45bc-a9d2-981a69495f10] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=fb28060d-c2e7-43f8-b3a6-611e99a4eab6] reason=missing product name
+SKIPPED [transaction_id=4268c7fa-6875-4289-8e37-1ad35d4a9416] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=9f76dc9a-c99f-4316-a14b-2b17b5c0d593] reason=missing quantity
+SKIPPED [transaction_id=bca348cd-906f-4c91-9ade-34f6131aacdc] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=774f90dc-59b7-496d-a2c7-ca1c7c73e94a] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=bc074268-42f8-4a9a-ad59-7ed52e9e1439] reason=missing quantity
+SKIPPED [transaction_id=f908e6d9-7ada-413d-8a7c-3d35415ed4ec] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=6c621efe-6f92-4451-854e-193c05a3194d] reason=missing product name
+SKIPPED [transaction_id=eb7ae221-ee2d-485d-a5f3-52fb0a47a57b] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=d0b9d682-30bb-494c-877b-47eef6d3c6b0] reason=missing product name
+SKIPPED [transaction_id=b4ac0438-dd30-4ae7-8005-e9d35ace9097] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=ad5de34f-a0c7-416e-a4a9-a5396d1df1e7] reason=missing product name
+SKIPPED [transaction_id=1e6f9c43-5941-429c-a2dd-e3adf3424bb3] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=557fa150-6870-4e35-aef7-122d16b288e9] reason=missing product name
+SKIPPED [transaction_id=0c617dcc-e9fb-40d7-8da1-61c4d41b6794] reason=missing product name
+SKIPPED [transaction_id=5c98d1d2-90a4-481c-b397-4e8c3fd6b802] reason=negative quantity (-3)
+SKIPPED [transaction_id=c1d45036-15d2-47ec-8070-bc5a7b7a3334] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=f438de9d-b272-48b1-b4c7-d6ad57dc90cf] reason=missing quantity
+SKIPPED [transaction_id=98a717c8-3851-4cf2-adb5-b2dd4623f246] reason=negative quantity (-3)
+SKIPPED [transaction_id=61163a82-fc6a-4bc9-b0cd-5991a3ef9c6d] reason=missing product name
+SKIPPED [transaction_id=7097c61c-5016-4cce-9836-2ef36a767c64] reason=missing product name
+SKIPPED [transaction_id=04db91d9-8e97-48af-895d-7bc77df69036] reason=missing product name
+SKIPPED [transaction_id=ebfc62d2-9eaf-400c-827a-3985bd99d292] reason=missing quantity
+SKIPPED [transaction_id=7a6afd59-4826-479b-8cda-263b08e4ba7f] reason=negative quantity (-3)
+SKIPPED [transaction_id=5bacf9d2-8717-41ab-b2e3-261fa64f847a] reason=missing product name
+SKIPPED [transaction_id=d5d68f72-a600-47a2-817a-22aaf496a4c0] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=236b993d-10d7-4448-b113-dd81a02128e4] reason=negative quantity (-7)
+SKIPPED [transaction_id=43a27019-ad46-4019-b90c-eac07b196e20] reason=missing product name
+SKIPPED [transaction_id=0f85df47-26a0-493c-b8cc-72b741c8a29d] reason=missing product name
+SKIPPED [transaction_id=8acb11b2-7e7d-409c-ab46-0b9799904b50] reason=negative quantity (-7)
+SKIPPED [transaction_id=a4ce1270-a729-49a0-8549-7ae41787b218] reason=missing product name
+SKIPPED [transaction_id=0f456bd7-81ac-4d51-b8a8-cc40fe9b264a] reason=missing quantity
+SKIPPED [transaction_id=05c3cd0d-166c-4b01-8589-51128433e2f5] reason=missing product name
+SKIPPED [transaction_id=ee9d2afc-86eb-4d14-91ef-cbf04e04dea0] reason=negative quantity (-9)
+SKIPPED [transaction_id=49e1987a-7c96-4656-8cae-183a5c36f982] reason=negative quantity (-2)
+SKIPPED [transaction_id=e67101c8-931e-464a-b2b2-d13de2a7d4a9] reason=missing product name
+SKIPPED [transaction_id=1bd1afca-0fdd-4fdb-b7a6-72e607b95acf] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=c29d7567-4c09-48d0-8b00-db07cef21bdc] reason=negative quantity (-8)
+SKIPPED [transaction_id=94a921b5-96f7-4586-b97e-2e2ba83d835a] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=02797452-bb84-4ecd-8431-8317a95f64b4] reason=missing quantity
+SKIPPED [transaction_id=53d23671-5eb9-463c-8e46-91f9772c8741] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=4451deab-6ea8-4a83-ac66-385210eeb2ad] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=01106dea-5810-46fb-91a1-4c9ef3061cd8] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=bb31a948-f2eb-4011-ae8c-7687e30b7eaf] reason=missing product name
+SKIPPED [transaction_id=c9207ae0-627b-4d30-8384-de2e1614550b] reason=missing quantity
+SKIPPED [transaction_id=4a211f5d-f96b-46f8-88cf-62bb146d1c5b] reason=missing product name
+SKIPPED [transaction_id=74356bd0-46c4-4dc3-b5a2-5e2643be25f6] reason=negative quantity (-5)
+SKIPPED [transaction_id=870246bc-9df8-491f-8a4f-08b3b2dd458c] reason=negative quantity (-8)
+SKIPPED [transaction_id=4c64bcfa-baaf-4d21-be6c-41b92a33dc15] reason=negative quantity (-3)
+SKIPPED [transaction_id=d217e052-dca4-4e9e-984f-194572bc3e90] reason=missing product name
+SKIPPED [transaction_id=46d8f25f-8990-48a9-96fd-c7219fc4643e] reason=missing product name
+SKIPPED [transaction_id=2b58666f-0f47-44e3-af9f-211a2779ffb6] reason=missing product name
+SKIPPED [transaction_id=daa4417e-c1a8-4e2c-b6d5-79ea8a669da3] reason=missing quantity
+SKIPPED [transaction_id=e579a21d-6c8f-40c3-92fb-14ed001f3227] reason=missing quantity
+SKIPPED [transaction_id=68900e18-8f63-45b8-a94b-7f8ba7ff9173] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=06ade3fc-0721-4693-8117-92d966074cd8] reason=missing quantity
+SKIPPED [transaction_id=f06195f8-4dff-46a5-983c-a6ae3556cc15] reason=missing quantity
+SKIPPED [transaction_id=68d3c1c2-808a-4edd-9c92-814404d12318] reason=missing quantity
+SKIPPED [transaction_id=196fb399-4948-4d46-8342-9dab0eb33e9d] reason=missing product name
+SKIPPED [transaction_id=c8b83adf-9eec-4f66-9dea-a3147c826a07] reason=missing quantity
+SKIPPED [transaction_id=7a5b8473-6f0b-4e14-956e-6d7947d5d913] reason=missing product name
+SKIPPED [transaction_id=b6ae6a00-95ad-4be4-bbe6-e474b105e773] reason=negative quantity (-5)
+SKIPPED [transaction_id=238ded19-706e-434c-88a9-0161f19ca707] reason=missing quantity
+SKIPPED [transaction_id=a1589b26-6548-4717-b5ce-18a9e5b6cffe] reason=missing product name
+SKIPPED [transaction_id=2d12532e-7094-4a36-853b-7123d068e671] reason=missing product name
+SKIPPED [transaction_id=5d7ff0d1-8f79-4d20-93ee-6430b91325fc] reason=negative quantity (-3)
+SKIPPED [transaction_id=882f8555-081b-48f3-a09f-1f9bb7e5bd82] reason=negative quantity (-2)
+SKIPPED [transaction_id=8d514fec-ebe4-48b9-83f8-76464793bbb3] reason=missing product name
+SKIPPED [transaction_id=476f3831-cb17-420f-aef7-379707a8d292] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=021f8bba-1c5c-4cc7-9d76-792b21c649b6] reason=missing quantity
+SKIPPED [transaction_id=a1806bb8-ac85-4346-ae85-57ec3a837b25] reason=missing quantity
+SKIPPED [transaction_id=3390d7b2-d7c2-4efb-bb2d-cc3b94382b4f] reason=negative quantity (-1)
+SKIPPED [transaction_id=a4564146-a0b7-488d-ad5b-e80519cabc6e] reason=missing quantity
+SKIPPED [transaction_id=afbe299c-99bd-4c42-9bb2-a0bd7e8d3ee3] reason=missing quantity
+SKIPPED [transaction_id=d9306104-afaa-4da7-b0c9-c55f36d59333] reason=missing quantity
+SKIPPED [transaction_id=4423bb67-a8b1-4a8b-a817-2877c05e4bb9] reason=negative quantity (-5)
+SKIPPED [transaction_id=edfb47d9-be48-4674-bd5d-126df21e514e] reason=negative quantity (-3)
+SKIPPED [transaction_id=770d5be1-97c0-425d-a8bd-497bd412524b] reason=negative quantity (-3)
+SKIPPED [transaction_id=a71f4876-4d28-4ffc-8d27-bce28cc71627] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=00360b41-8e5f-4616-96fa-33b230988b34] reason=negative quantity (-3)
+SKIPPED [transaction_id=9262e0e4-fd20-48e2-9332-a23d2be5a529] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=7206ac7b-0030-471f-98c3-6a9ed101edc4] reason=missing quantity
+SKIPPED [transaction_id=fee2eaf1-62c7-4146-a5c0-bc22f0fa41ae] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=5bffb915-2220-493a-be30-9b75f7f36f90] reason=negative quantity (-7)
+SKIPPED [transaction_id=6b815398-a0d0-43ec-b96d-ee8b5e668db8] reason=missing quantity
+SKIPPED [transaction_id=86335194-5065-4e68-8915-88c16baba47f] reason=missing product name
+SKIPPED [transaction_id=546469f3-c568-4860-90e1-fb5532a2214b] reason=missing product name
+SKIPPED [transaction_id=93b325ff-401d-4f2f-9746-b47324e2dbcc] reason=missing quantity
+SKIPPED [transaction_id=a2d25a64-6bb4-4616-bbe8-e3fd12addd99] reason=negative quantity (-1)
+SKIPPED [transaction_id=bbc469a2-19fd-4516-9d1d-12ac9ddf0aa6] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=72bfba0b-a341-45b9-971f-5eb817c27a1e] reason=negative quantity (-7)
+SKIPPED [transaction_id=ded2cf7a-eaff-40b3-af8b-85b4e5266c6c] reason=missing quantity
+SKIPPED [transaction_id=59efb587-4d16-47c4-a3b2-9f6b19150524] reason=missing product name
+SKIPPED [transaction_id=4595a195-6fa9-4f20-9856-cd2789e59f74] reason=negative quantity (-3)
+SKIPPED [transaction_id=060bc45d-5529-4bfe-9400-81fe5ee66f87] reason=negative quantity (-9)
+SKIPPED [transaction_id=8e440b11-f730-4664-ac75-12b511691711] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=b32e7b9d-9286-458b-843b-31906435076e] reason=missing quantity
+SKIPPED [transaction_id=fd656c8e-a8f1-429f-8dd4-341aee852be4] reason=missing product name
+SKIPPED [transaction_id=9f597af4-ce85-410b-9ab6-4249ef88f742] reason=negative quantity (-10)
+SKIPPED [transaction_id=5f677286-1f10-4705-9933-8301681a8999] reason=missing product name
+SKIPPED [transaction_id=e93a47aa-efd4-42c4-a74f-8264efc12123] reason=missing quantity
+SKIPPED [transaction_id=6020f552-06f8-423a-91aa-cf59975516b1] reason=missing product name
+SKIPPED [transaction_id=93f614a3-320c-4ee9-823c-3f6de6f76d17] reason=missing product name
+SKIPPED [transaction_id=cc826c8d-2d13-4a24-a25d-45a6b3cb27d0] reason=negative quantity (-5)
+SKIPPED [transaction_id=f8d8a2ad-3296-4427-8348-6973df645407] reason=missing product name
+SKIPPED [transaction_id=49681273-4659-48b2-ba5a-f6fccc140dbe] reason=missing quantity
+SKIPPED [transaction_id=f8ace13b-8575-4579-952d-f505ec44a959] reason=missing product name
+SKIPPED [transaction_id=ef8a78bb-cee2-40d4-9936-f0326b4fb562] reason=negative quantity (-1)
+SKIPPED [transaction_id=582cbfcb-6307-4851-98e7-d0b86f437caf] reason=negative quantity (-5)
+SKIPPED [transaction_id=31e074aa-f364-40f4-8c3d-01c6cc039d52] reason=negative quantity (-2)
+SKIPPED [transaction_id=878a70c9-66df-4113-a420-ff13f8f26040] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=a6a0b0c2-5eb1-4379-95a4-21e39801bb7c] reason=missing quantity
+SKIPPED [transaction_id=cf1cf4e0-e3e7-4318-922d-0bf01f81bd8d] reason=missing quantity
+SKIPPED [transaction_id=4515afb6-64be-47df-9138-cc4b9b6226ad] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=bb2be191-4813-4314-9806-7be48c9508a8] reason=missing quantity
+SKIPPED [transaction_id=154313b2-d556-4dab-b1e4-9fd9d04eeefa] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=0bffaf1c-8ecd-4e22-a8d8-8a236d8e1a65] reason=negative quantity (-8)
+SKIPPED [transaction_id=592ad5ee-6f82-437b-83b9-a4d56d9da8d6] reason=missing quantity
+SKIPPED [transaction_id=483d9f18-aae3-44cb-88a8-359b1e1a53cb] reason=missing quantity
+SKIPPED [transaction_id=dda450a6-9e2d-41ad-ad4e-befe6081d7a4] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=7b87df1c-48cc-408f-8f13-01750838ac85] reason=missing product name
+SKIPPED [transaction_id=37e88568-f5e8-413a-8407-3bd268446ce4] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=c8d3d0ce-39f3-4508-a9c2-c5312e3d1a79] reason=missing product name
+SKIPPED [transaction_id=a7c6bded-90c0-4012-acf1-4e9d3d0ef0c4] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=1a626704-7ac6-425b-a532-cea4c368616c] reason=missing product name
+SKIPPED [transaction_id=e5d4468f-a0e4-4f6a-8eb6-bc17e4ca5ce7] reason=missing product name
+SKIPPED [transaction_id=a4199586-6848-48f5-b367-f25ac6256a35] reason=missing product name
+SKIPPED [transaction_id=550b803e-5929-4e80-a7b5-0072057d3eb4] reason=negative quantity (-9)
+SKIPPED [transaction_id=213c977a-61cb-4052-bbb1-5e4ec632549f] reason=missing quantity
+SKIPPED [transaction_id=6d1aa54f-8e1e-4bd4-96bc-29edca5f0737] reason=negative quantity (-6)
+SKIPPED [transaction_id=c97c693b-0be7-45a5-a649-abe712098a2a] reason=missing quantity
+SKIPPED [transaction_id=7cae60ca-9159-4c00-b415-76ae0b1ee14e] reason=missing quantity
+SKIPPED [transaction_id=68857d50-c011-4bc2-ae1d-d9c36fce230f] reason=negative quantity (-7)
+SKIPPED [transaction_id=2412cfdf-583d-427f-ac3a-6045a0c7b758] reason=missing product name
+SKIPPED [transaction_id=e8bb5ae6-724d-417a-8f19-b33251339e06] reason=negative quantity (-7)
+SKIPPED [transaction_id=3ccb78b6-28e8-413f-b390-c8825171b2c4] reason=missing product name
+SKIPPED [transaction_id=7173ea95-5cf0-4cf8-93cb-38549b0c7f2b] reason=missing quantity
+SKIPPED [transaction_id=dc08911a-bbd0-4a84-a4f0-ea24e5ee94aa] reason=missing product name
+SKIPPED [transaction_id=a38f12a5-4c83-4b77-875e-2e20ebc0531e] reason=missing product name
+SKIPPED [transaction_id=6a604414-1e84-4b32-8dff-dfd939bb26a1] reason=missing quantity
+SKIPPED [transaction_id=6e450606-ddec-485f-81be-2858792fcc1b] reason=negative quantity (-6)
+SKIPPED [transaction_id=f21ea123-1d43-4e53-9914-b99fa75e0e16] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=fe6ec3df-efa5-4365-bfa8-d24dd8529728] reason=missing product name
+SKIPPED [transaction_id=e9d661d6-8f0b-4950-b686-e65b11b988a9] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=1262e8f4-18e6-4847-8e67-6770a5f2236d] reason=missing product name
+SKIPPED [transaction_id=9db628cb-7743-4c63-aac4-728a4ae69034] reason=missing quantity
+SKIPPED [transaction_id=4161b495-d8fb-44fc-9c4d-ed7b5f0c76b2] reason=missing quantity
+SKIPPED [transaction_id=c508e60e-7ac5-4f69-948b-f702625ad8f3] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=f924d0e3-c50c-4c43-bfa7-e9acd8f57976] reason=negative quantity (-6)
+SKIPPED [transaction_id=5f93ac69-7df5-43b8-a571-f4f95f47877f] reason=negative quantity (-1)
+SKIPPED [transaction_id=dc123d7e-b36a-491f-8a9e-84a9ffddbe33] reason=missing quantity
+SKIPPED [transaction_id=2c3ae412-69e1-44af-9614-37648baabd74] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=977255aa-5d70-4673-875c-3c28d35402a7] reason=missing quantity
+SKIPPED [transaction_id=6d25bef4-eacd-4961-a4b0-e1388d7daa48] reason=negative quantity (-3)
+SKIPPED [transaction_id=657ce0b5-5263-4fb0-9b51-46815bb4efbd] reason=negative quantity (-6)
+SKIPPED [transaction_id=495e139c-709e-47e1-9094-fd69fbaca664] reason=missing quantity
+SKIPPED [transaction_id=1c4de213-1fe3-4e94-a6a9-59e74d1f0b2e] reason=missing quantity
+SKIPPED [transaction_id=173d36d2-d56f-4e74-b1b7-a2f9fbad98ca] reason=missing quantity
+SKIPPED [transaction_id=a5131c13-52b9-47d5-82bc-34a3f700de0f] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=11e6c157-a7fd-4fab-b4d7-05e2d48e785f] reason=missing product name
+SKIPPED [transaction_id=fba054af-03c6-4c85-8b35-d3aae8f88c44] reason=missing product name
+SKIPPED [transaction_id=ba67f91b-590f-4cd4-9d7e-6f2e635fe932] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=e09315e5-e667-4461-8e87-5d05bb1d5f24] reason=missing quantity
+SKIPPED [transaction_id=95b9ba4a-38f8-4d7c-8381-a63a0e9b31da] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=22ec9417-ee47-4640-b1b0-bbc4eb4fc63a] reason=negative quantity (-10)
+SKIPPED [transaction_id=b834b7f8-f911-4d64-800f-a21015b1b137] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=870dfc01-f802-4e0c-a8db-6670bd2b1498] reason=negative quantity (-5)
+SKIPPED [transaction_id=a67c4d4b-2624-47ff-983f-89de74e5ac0a] reason=missing quantity
+SKIPPED [transaction_id=6fa20797-04e1-46b5-bd85-1e312441df00] reason=negative quantity (-4)
+SKIPPED [transaction_id=205900cb-242b-4f17-9030-92aa84ef8b3c] reason=missing product name
+SKIPPED [transaction_id=9ee08dad-ec87-45eb-b6eb-492645f44534] reason=missing product name
+SKIPPED [transaction_id=8e7e377a-b37d-432c-aa49-abfd512371aa] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=e13224be-9583-4c11-a50f-0ad5c85ceb40] reason=missing quantity
+SKIPPED [transaction_id=4b820f88-db2d-4714-bfa8-7ad3461176d9] reason=missing product name
+SKIPPED [transaction_id=262ace64-166f-4c48-b937-7aad7c703c0f] reason=missing product name
+SKIPPED [transaction_id=48912c0b-0f9e-459e-b155-8718a1c1602a] reason=missing quantity
+SKIPPED [transaction_id=e4ba3e7f-d427-4a0a-8bb1-24ce4d34041b] reason=negative quantity (-1)
+SKIPPED [transaction_id=ab219247-877a-4c17-ac0c-9bdf5aacdad2] reason=negative quantity (-1)
+SKIPPED [transaction_id=e991bcb8-7374-4f4d-aaf2-b3c04f94ea5f] reason=missing quantity
+SKIPPED [transaction_id=a85fd978-0acd-4a07-8c96-5331cdae5183] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=ddb3b80a-eb83-4072-b16b-cd4bf5f79047] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=a623e148-42ef-4ac6-ba3a-49515e96e2d3] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=9c235fb3-d358-48cf-9d18-a7a868e7cf31] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=810e751d-d590-4592-a880-4e0f2e71103e] reason=missing product name
+SKIPPED [transaction_id=b563e17e-0f92-492e-ab95-8cc12cafbb44] reason=missing quantity
+SKIPPED [transaction_id=f5a91c49-5df9-4339-be30-7e4f89eea24f] reason=negative quantity (-2)
+SKIPPED [transaction_id=9aad7946-3d05-4a9e-9c71-68880fff8360] reason=missing product name
+SKIPPED [transaction_id=cdd0b979-a11e-47bf-aba4-75d430b4d3be] reason=missing product name
+SKIPPED [transaction_id=8f7d650c-0f52-43c1-b44c-96db9d6eb008] reason=missing product name
+SKIPPED [transaction_id=5da089dc-3e85-4c68-8149-6fe27c21da13] reason=missing quantity
+SKIPPED [transaction_id=b783b440-060d-40dc-bed6-676a3d8cc13b] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=7b7e5be6-2ef1-499f-b8f3-fecc7fa40b08] reason=missing product name
+SKIPPED [transaction_id=6dcf7b70-ab2b-4d79-83da-8769a1e1122e] reason=missing quantity
+SKIPPED [transaction_id=84c83afb-9f15-4ec5-b104-490358824920] reason=negative quantity (-8)
+SKIPPED [transaction_id=cbd6a277-3d90-402a-a52f-c1b30cfa2e86] reason=missing quantity
+SKIPPED [transaction_id=b3af1319-203e-40b9-b6f7-c080a2e51745] reason=negative quantity (-9)
+SKIPPED [transaction_id=88672918-d0bc-4017-95bb-f3b8ec97bc6e] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=43f1083d-fc68-4de6-a27c-3b7ab26fea37] reason=negative quantity (-2)
+SKIPPED [transaction_id=6a837c51-670f-4a3b-869d-90c21216645e] reason=missing product name
+SKIPPED [transaction_id=416803bb-ae17-43ea-905b-fa4b52d67f4b] reason=missing product name
+SKIPPED [transaction_id=943466bb-6eae-4cad-a376-4900bc5c28e0] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=51dd1bf6-bd5d-48e7-b486-9f84027b3e71] reason=negative quantity (-4)
+SKIPPED [transaction_id=9f765f1d-a71a-4ac2-9700-24a88520bb7a] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=c9c20130-a9ca-4524-a067-76c355ad902d] reason=missing product name
+SKIPPED [transaction_id=78d9ee2a-2189-496f-b822-47340ae1eacf] reason=negative quantity (-9)
+SKIPPED [transaction_id=4f466088-9378-45d4-995b-e516b4db5f02] reason=negative quantity (-7)
+SKIPPED [transaction_id=ef7f8636-5589-472b-b1af-9abd98f2b6ba] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=8c2dc1c7-d14d-4f04-9ef6-2213380d609b] reason=missing product name
+SKIPPED [transaction_id=764f32f8-2b21-41d6-b95f-0b205145c6f6] reason=missing product name
+SKIPPED [transaction_id=7bc5bb3a-70b5-4016-a12e-dde2637d2f32] reason=missing product name
+SKIPPED [transaction_id=fac12cc3-ceb7-4454-aa58-eaca08b21b40] reason=missing quantity
+SKIPPED [transaction_id=5388a95b-ba24-4925-a1a8-fea73f0d3407] reason=negative quantity (-8)
+SKIPPED [transaction_id=ac73e2d5-3b8b-4dc1-815b-86190480d63d] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=393f9cfc-5a22-4021-9751-d8054fa82a0d] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=cc79fc63-4dcb-4483-9d1f-cd2c89231754] reason=missing quantity
+SKIPPED [transaction_id=8474420c-12f5-4368-a8ca-bc678e2a498a] reason=missing product name
+SKIPPED [transaction_id=f1a05ee6-d97b-4990-bb64-cc61907c0391] reason=missing product name
+SKIPPED [transaction_id=63c3a00c-3e11-4600-97be-2830f11a1237] reason=negative quantity (-8)
+SKIPPED [transaction_id=5c0f708a-cd24-4aea-999b-5f06a1a41fb2] reason=missing product name
+SKIPPED [transaction_id=92bd3b4a-2fb7-4ee3-8a1e-363c40a9b10f] reason=negative quantity (-8)
+SKIPPED [transaction_id=088f19c2-b968-4599-b1f5-39ab1efec52e] reason=missing product name
+SKIPPED [transaction_id=8aaf3b14-9569-4213-82b6-f631aa98e73e] reason=negative quantity (-8)
+SKIPPED [transaction_id=06cf2619-1cfb-41f7-ae46-1e40dc63119f] reason=missing product name
+SKIPPED [transaction_id=4daa86df-e4e4-420d-9a99-1ae32fdd8be5] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=82d5573f-2464-49e5-8b85-79cc7762bdba] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=49828708-f2e9-4ac2-b6b0-7931dedcfa07] reason=negative quantity (-4)
+SKIPPED [transaction_id=568968bf-947e-43d9-b802-f6052fe920c3] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=2c0849c0-898c-4f4e-b1be-094fa8d8fb8b] reason=negative quantity (-5)
+SKIPPED [transaction_id=35495e31-8a0c-4fa8-8c5d-693511162521] reason=missing product name
+SKIPPED [transaction_id=9e425e64-c888-4a63-ad35-7f11d3eecd38] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=70c86491-b706-4600-81dc-27a23f366df8] reason=missing quantity
+SKIPPED [transaction_id=8cff7e5c-8942-4eb9-a29a-b08ad18b3766] reason=missing product name
+SKIPPED [transaction_id=561b1252-6d40-42d4-830b-d64f91000a58] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=5bf5b245-e0a3-4a6d-a7d6-e5e4209bcc2e] reason=missing quantity
+SKIPPED [transaction_id=a091c003-39d2-4262-a504-5beb623b38e3] reason=negative quantity (-4)
+SKIPPED [transaction_id=7fcd9ab3-e7aa-4f91-bb3b-e618f5d5ca47] reason=missing product name
+SKIPPED [transaction_id=195afc85-b158-48de-b75c-a152218978f8] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=ae20643d-c91a-43db-b37d-86ecba1e3c4b] reason=missing product name
+SKIPPED [transaction_id=7624a777-a684-41ac-8997-eec858e6c6cd] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=3d7a4be7-5603-4f60-885a-f598e6aa1433] reason=negative quantity (-1)
+SKIPPED [transaction_id=03cd0c1c-9c98-43a4-912f-5260ca9f3a31] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=ae739fac-618a-4dda-8e33-dc93e12005d9] reason=negative quantity (-2)
+SKIPPED [transaction_id=66193ccb-5936-4343-8d13-e55227d006d9] reason=negative quantity (-7)
+SKIPPED [transaction_id=e7a40f74-92c0-4474-a5b3-69d27923d751] reason=negative quantity (-4)
+SKIPPED [transaction_id=c2f4cc2a-c960-4c52-ac3a-0243acb4d85b] reason=missing quantity
+SKIPPED [transaction_id=9f3374c3-efb1-4405-bc2b-c64e592c942a] reason=negative quantity (-1)
+SKIPPED [transaction_id=d6d0b600-a36c-49a9-a583-04fff5b5f03d] reason=negative quantity (-8)
+SKIPPED [transaction_id=d9faf12e-f33e-4015-8672-7d6b61651a7e] reason=missing quantity
+SKIPPED [transaction_id=9856b5ab-6760-44fa-bda0-b8ce5430494a] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=e8ef04bd-48e7-42f9-ab8f-367e0cff437c] reason=missing quantity
+SKIPPED [transaction_id=4b35f4d5-605d-4cfc-a56d-2437be4aa73a] reason=negative quantity (-4)
+SKIPPED [transaction_id=0afccc99-4acf-41ac-8b09-e5f39b42c524] reason=negative quantity (-1)
+SKIPPED [transaction_id=b88839ff-664a-4521-8831-9fad5b998b85] reason=negative quantity (-8)
+SKIPPED [transaction_id=5669c7d8-fc94-4ca6-8cba-dbc50dab6d15] reason=missing quantity
+SKIPPED [transaction_id=52c7c150-07d8-4a94-ba2a-0af08ae3f365] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=47b8c52f-baa6-4f07-a0de-bc442c5973df] reason=missing quantity
+SKIPPED [transaction_id=6c5aabd1-4b0c-49a5-8961-d442f0876574] reason=missing product name
+SKIPPED [transaction_id=1c99820c-c7a0-4d99-95bf-0915715864ea] reason=missing product name
+SKIPPED [transaction_id=6a6ef1d7-05bc-42bf-adac-a7b4fd084b89] reason=negative quantity (-6)
+SKIPPED [transaction_id=e4dbb9ea-c0d7-46f2-9fa8-3a7ead355eaa] reason=negative quantity (-4)
+SKIPPED [transaction_id=f64ca4ff-3bf4-40f3-977c-ff26cd8799bc] reason=missing quantity
+SKIPPED [transaction_id=65df0bb6-4154-464e-acc6-c727599c4945] reason=missing product name
+SKIPPED [transaction_id=cce89582-3e02-4f26-a9d2-205008636640] reason=missing product name
+SKIPPED [transaction_id=cc673b6d-30cf-4b1d-a4d6-ce0c1b9c0154] reason=missing quantity
+SKIPPED [transaction_id=7c8aabac-3f35-4cb4-8533-9c4d9a0f39b7] reason=negative quantity (-7)
+SKIPPED [transaction_id=b8c97697-ce3f-4d30-ac13-a192932a5b69] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=7420119e-64de-4889-9f20-bde2a30e00f3] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=f2718dfe-e898-4ea7-a05f-cbe18a254641] reason=negative quantity (-1)
+SKIPPED [transaction_id=adb375ff-6a53-4e52-9dff-8310cf53edcb] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=5f22189e-1d43-4679-8b3b-796a1ebc8349] reason=negative quantity (-2)
+SKIPPED [transaction_id=31436ed7-4c5d-4e91-8ee2-a7bfd4772bde] reason=missing product name
+SKIPPED [transaction_id=db34a5ea-757a-40ae-b22b-8564e89a91fc] reason=missing quantity
+SKIPPED [transaction_id=d9450e25-2964-4cac-ad31-4f9244869f5c] reason=negative quantity (-6)
+SKIPPED [transaction_id=92fbb7df-6696-4c9b-955e-aca8c3cfcc69] reason=missing quantity
+SKIPPED [transaction_id=f7189884-d190-427e-9b11-e682a3bacde7] reason=negative quantity (-2)
+SKIPPED [transaction_id=48aaf933-7dec-4fed-8751-14fab0db7f5a] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=72838346-9951-49b7-9265-b62fe62efe46] reason=negative quantity (-10)
+SKIPPED [transaction_id=3a3a3b7a-9ec3-4a11-be63-c173a6fd7a95] reason=negative quantity (-4)
+SKIPPED [transaction_id=18c23c79-3400-4a10-9edf-16a69a778076] reason=negative quantity (-8)
+SKIPPED [transaction_id=1f492a6d-bc86-4bd2-b3c5-e2bf519916b4] reason=missing quantity
+SKIPPED [transaction_id=d95da3b8-2392-4eff-a956-a6bc0b1cb90b] reason=negative quantity (-6)
+SKIPPED [transaction_id=97e6768d-d121-4eff-898c-e7381bcf7979] reason=missing quantity
+SKIPPED [transaction_id=1ecdf37c-599e-4646-b48c-7090e4773671] reason=missing product name
+SKIPPED [transaction_id=31ed5280-0be1-46b9-bb84-cd18e6634acd] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=23cf10cf-7317-4df0-9691-5771dd9d292c] reason=missing product name
+SKIPPED [transaction_id=0403b455-a479-4a49-b195-945134a8063f] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=5255350b-ee0a-4022-9f67-6ca010167395] reason=missing product name
+SKIPPED [transaction_id=0c612a5c-b7f9-4444-b8b5-efc82ce4e227] reason=missing product name
+SKIPPED [transaction_id=7c634baf-bff7-4f9a-8dfc-1c02f3e05a3e] reason=negative quantity (-7)
+SKIPPED [transaction_id=a6433a5b-e8cc-4dd7-92d9-e029935b6b8f] reason=negative quantity (-10)
+SKIPPED [transaction_id=781beb25-266e-42a0-83b1-e1969b56d8d4] reason=missing quantity
+SKIPPED [transaction_id=fe893aa8-9114-4506-91dc-08b73b08aa82] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=78dc911a-65b7-40a3-8ecc-a7372526a14d] reason=negative quantity (-4)
+SKIPPED [transaction_id=064381a0-d3d9-44fb-8ee6-c37bf7f23552] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=d27ba30f-ce98-4a1c-b1f5-89b227879c05] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=2ab82415-95fb-4250-b435-92ab673e3a6a] reason=missing product name
+SKIPPED [transaction_id=59d6a639-1453-433f-841e-51b3647ed116] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=9ab49436-f6b9-4c95-b1d0-4662f4afd037] reason=negative quantity (-6)
+SKIPPED [transaction_id=b126629a-38bb-4671-b6b6-34b88138f1d6] reason=missing quantity
+SKIPPED [transaction_id=8f7a1c64-10cd-4c09-9e4c-09be59946694] reason=missing product name
+SKIPPED [transaction_id=0cb2cd9f-26ee-409b-8662-47d990b67fb7] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=b06031f4-110a-4541-83b1-bff6dbdd9a18] reason=missing quantity
+SKIPPED [transaction_id=6f4c0629-ef22-46f4-a045-23b3950fd12a] reason=missing product name
+SKIPPED [transaction_id=bfef365f-d84c-416e-af29-e4ed38859aa1] reason=missing quantity
+SKIPPED [transaction_id=9ef89a45-2c95-45ae-9d4e-5c74ff66fcef] reason=missing product name
+SKIPPED [transaction_id=f246ba67-5d8c-4f42-baea-be666241dc7c] reason=missing product name
+SKIPPED [transaction_id=e972a806-758f-4962-a1d7-670dd0b645bb] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=873bf64a-636f-4827-a672-f8d35c93b745] reason=missing quantity
+SKIPPED [transaction_id=317db7a1-6ab8-46b5-b9c9-01f2ebc77e26] reason=missing product name
+SKIPPED [transaction_id=6a37a586-f881-47a1-a13a-c0fc97fa4bd5] reason=missing quantity
+SKIPPED [transaction_id=24bee9bb-6d26-407a-887c-168ae13a1739] reason=missing quantity
+SKIPPED [transaction_id=499f3ee3-b152-4c16-8212-e17b8553b222] reason=missing quantity
+SKIPPED [transaction_id=f9a6ccbe-c28b-44a2-b10f-79948e49de78] reason=missing product name
+SKIPPED [transaction_id=3c29798c-ccbc-4915-a1a7-62785f452c02] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=f4555fd4-4571-4e93-8808-4ef7b6c851dc] reason=negative quantity (-2)
+SKIPPED [transaction_id=35d63b34-853c-49df-b557-e6c6aa11d6e1] reason=negative quantity (-8)
+SKIPPED [transaction_id=b8a697be-f79a-4ead-9335-ac546027db3e] reason=negative quantity (-4)
+SKIPPED [transaction_id=64304ca6-29db-47a1-85ac-700368eff02a] reason=missing product name
+SKIPPED [transaction_id=5ecd91c8-9bf4-49e9-89b7-22922290357d] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=04a1054c-c342-49ad-b2a3-2ea353e7fcfe] reason=missing product name
+SKIPPED [transaction_id=f4f6a12d-fa51-4cde-81f2-954031b8bf1c] reason=negative quantity (-7)
+SKIPPED [transaction_id=8c4dfaca-6400-4e62-9611-c63728d22780] reason=missing product name
+SKIPPED [transaction_id=74fb0667-fced-46ea-8e20-5fe82b251f21] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=2d564b89-5663-489f-ab28-68baccc1c7f1] reason=missing quantity
+SKIPPED [transaction_id=b9a8a5cf-4e01-4035-8e61-5d1f268043e5] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=455cb0e6-f438-4c36-97db-c7cbe29038a0] reason=missing product name
+SKIPPED [transaction_id=5714f240-93e7-414c-ba72-e4387f1d351e] reason=missing quantity
+SKIPPED [transaction_id=e6cca482-fa8a-41d8-a558-e4cc85eef746] reason=missing product name
+SKIPPED [transaction_id=dd28294e-2aba-4981-9936-36e5300469b5] reason=missing product name
+SKIPPED [transaction_id=74e40718-51c4-4116-91c9-1c75e48db1a0] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=0cbff597-f525-476b-a08e-c4638525fbed] reason=missing product name
+SKIPPED [transaction_id=435a9fa1-2076-41bc-9268-7f72e8a9e5ea] reason=missing product name
+SKIPPED [transaction_id=305b0ed4-e68e-4785-842c-0fa6dda0c9f7] reason=negative quantity (-8)
+SKIPPED [transaction_id=34d33b81-1af6-4a40-a90d-0b685f79bba6] reason=missing product name
+SKIPPED [transaction_id=30ff43c6-b08e-443f-a8b8-7338845ac4a3] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=96587b91-5793-4193-bbf7-d4b0385d741c] reason=missing product name
+SKIPPED [transaction_id=b329cf1d-6ded-49e7-a1f8-1ddf5bde0285] reason=missing quantity
+SKIPPED [transaction_id=48585a2d-cf93-4d9b-96f1-0b4428f6bebf] reason=missing quantity
+SKIPPED [transaction_id=cd9c642f-faa9-4b90-9d20-45f4904ca626] reason=negative quantity (-10)
+SKIPPED [transaction_id=5374cead-275b-42db-9391-2ab3fbc4f284] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=ad28a87f-f86d-4d82-a2b6-0fb0607bec3f] reason=missing product name
+SKIPPED [transaction_id=0a8a072f-6842-4be2-bb0e-500333d751b9] reason=missing quantity
+SKIPPED [transaction_id=b7392c51-c68c-4c43-aae0-80f6189c1958] reason=missing product name
+SKIPPED [transaction_id=9218871b-83bc-4ff2-9652-44f3798f0dde] reason=missing product name
+SKIPPED [transaction_id=b52d89fc-c82c-41e9-85e6-c41bec48ad4a] reason=missing product name
+SKIPPED [transaction_id=b76e7846-93d5-44e1-950f-4e27484f117e] reason=missing product name
+SKIPPED [transaction_id=10e43b47-87af-4294-a526-261017499101] reason=negative quantity (-9)
+SKIPPED [transaction_id=269d928c-779a-485d-bb54-5c75967ea910] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=45f45e0d-62f0-4dc0-a356-5e0d7cc915a8] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=ee174ea5-7c4d-4bbf-ac08-8f2a10f2138f] reason=negative quantity (-9)
+SKIPPED [transaction_id=1faa3c56-6ab5-4f25-99d3-0fd2ac7e076d] reason=missing quantity
+SKIPPED [transaction_id=27a450e7-6945-4bcb-aeac-f6d2c0981416] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=00dfaba5-c9f1-435d-a0c8-00e7713beca3] reason=missing quantity
+SKIPPED [transaction_id=38bd9b31-c41f-44d1-bb99-bd76963623e1] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=ce2ea6ef-eb6d-47f6-ba08-7635a72e9320] reason=missing product name
+SKIPPED [transaction_id=98a341fe-183b-4ed1-9d20-60bb55ed6d47] reason=missing product name
+SKIPPED [transaction_id=27b15944-b535-464b-81ad-5cf74865c8ee] reason=missing product name
+SKIPPED [transaction_id=8bc6e8c9-b697-4498-b2ad-72b4d780ee04] reason=missing quantity
+SKIPPED [transaction_id=71001446-5d32-4b18-a7d9-5b2adbbd9e62] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=1e3bc27d-3761-4412-9c9f-2681ccf800e8] reason=missing product name
+SKIPPED [transaction_id=d6c23514-f611-418a-a38a-591e6b4b8732] reason=missing quantity
+SKIPPED [transaction_id=813d972d-ba4f-41df-b5cc-952061699cfe] reason=negative quantity (-10)
+SKIPPED [transaction_id=7eaceb43-3e4f-4b00-be9c-c5166cfdecb9] reason=negative quantity (-8)
+SKIPPED [transaction_id=b1b743de-6a44-42c1-b13c-cc4e4ec2e871] reason=missing product name
+SKIPPED [transaction_id=27b19a6f-29dc-4b48-8ccb-ee020de0efe6] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=3f9672ce-5c65-4918-8ca2-073c1c809b70] reason=missing quantity
+SKIPPED [transaction_id=c546b9b7-1453-40ae-aceb-ed08d4a71d34] reason=missing product name
+SKIPPED [transaction_id=8f49fe89-d19a-40be-815d-e039af211a16] reason=negative quantity (-6)
+SKIPPED [transaction_id=8f3e8739-236c-4b24-8fd6-65641aa8e296] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=4a5767b6-7efb-440f-abdd-1d3c18ce9297] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=fa3dcff4-dd2d-4389-b837-59483711c6fe] reason=missing quantity
+SKIPPED [transaction_id=ca0208d4-0421-48a5-ac4b-376dc708d12f] reason=missing quantity
+SKIPPED [transaction_id=036530cf-28fb-48e2-9884-c29338b3d1fd] reason=negative quantity (-9)
+SKIPPED [transaction_id=e274dc91-91eb-4559-bcf3-478d90d8fb66] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=e565393a-ea62-4236-98ed-fd3a1f9c46a1] reason=missing product name
+SKIPPED [transaction_id=775c99b8-bef5-4a97-b331-bec6ea7fb740] reason=non-numeric unit_price (N/A)
+SKIPPED [transaction_id=df99f6c1-c398-43e7-8a68-8d1b05b07434] reason=missing quantity
+SKIPPED [transaction_id=b5f292fd-eb53-4a9b-bb3f-8ffae1c2e6c1] reason=missing quantity
+SKIPPED [transaction_id=0f92c909-71e2-49f5-b72f-83555531a248] reason=missing quantity
+SKIPPED [transaction_id=9fafb307-ca16-403b-80a3-30f4f7d090a9] reason=negative quantity (-2)
+SKIPPED [transaction_id=9a22d5ab-01fd-4dbb-bcd6-ceff5c192509] reason=missing quantity
+SKIPPED [transaction_id=ad3cacab-9cfd-4e07-a8a8-335e05700f61] reason=missing quantity
+SKIPPED [transaction_id=9fdf4118-4d26-4094-82ad-a883e5c08d6c] reason=negative quantity (-8)
+SKIPPED [transaction_id=765dc923-dd35-41a4-8eb8-cf0476eb3fb5] reason=missing quantity
+SKIPPED [transaction_id=258a30b0-a618-4ae0-a03c-e30d3d1d4d04] reason=negative quantity (-8)
+SKIPPED [transaction_id=ba93e11e-28e3-4b45-ab07-1bbb0a8a1fef] reason=negative quantity (-7)
+SKIPPED [transaction_id=be904333-926e-4689-bcaa-1d315f5b1a88] reason=missing quantity

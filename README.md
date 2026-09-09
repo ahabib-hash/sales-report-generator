@@ -17,14 +17,16 @@ A small Python exercise that reads raw sales transactions from a CSV, cleans and
   `product, total_revenue, total_units, avg_order_value`
 - Prints a run summary (rows read, rows skipped) and the report table to stdout.
 
-## Files
+## File structure
 
-| File | Purpose |
-|---|---|
-| `generate_data.py` | Generates a synthetic `sales.csv` (100,000 rows) with a mix of valid and intentionally malformed rows, for testing the pipeline. |
-| `main.py` | Reads `sales.csv`, validates/aggregates, writes `report.csv` and `errors.log`. |
-
-`sales.csv`, `report.csv`, and `errors.log` are generated at runtime and are not committed — see below.
+```
+project/
+|-- generate_data.py     (provided — generates sales.csv)
+|-- sales.csv            (generated dataset — do not edit)
+|-- main.py              (solution file)
+|-- report.csv           (output: summary report)
+|-- errors.log           (output: skipped rows with reasons)
+```
 
 ## Usage
 

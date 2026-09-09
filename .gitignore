@@ -1,6 +1,3 @@
-sales.csv
-report.csv
-errors.log
 __pycache__/
 *.pyc
 .DS_Store
