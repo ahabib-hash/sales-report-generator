@@ -6,51 +6,50 @@ REPORT_FILE = "report.csv"
 ERROR_LOG_FILE = "errors.log"
 
 
-def process_sales_file(filepath):
+def process_sales_file(filepath, error_log_path):
     summary = {}
-    error_lines = []
 
-    with open(filepath, "r", newline="") as f:
+    with open(filepath, "r", newline="") as f, \
+         open(error_log_path, "w") as err_f:
         reader = csv.reader(f)
-        next(reader)  # skip header
+        next(reader)
 
         for row in reader:
-            # skip rows with the wrong number of columns
             if len(row) != 6:
                 transaction_id = row[0] if row else "unknown"
-                error_lines.append(f"SKIPPED [transaction_id={transaction_id}] reason=malformed row (expected 6 columns, got {len(row)})")
+                err_f.write(f"SKIPPED [transaction_id={transaction_id}] reason=malformed row (expected 6 columns, got {len(row)})\n")
                 continue
 
             transaction_id, transaction_date, product, region, quantity_str, unit_price_str = row
-            # case-insensitive grouping key
             product = product.lower().strip()
 
+            reasons = []
+
             if not product:
-                error_lines.append(f"SKIPPED [transaction_id={transaction_id}] reason=missing product name")
-                continue
+                reasons.append("missing product name")
 
+            quantity = None
             if not quantity_str.strip():
-                error_lines.append(f"SKIPPED [transaction_id={transaction_id}] reason=missing quantity")
-                continue
+                reasons.append("missing quantity")
+            else:
+                try:
+                    quantity = int(quantity_str)
+                    if quantity < 0:
+                        reasons.append(f"negative quantity ({quantity})")
+                except ValueError:
+                    reasons.append(f"non-numeric quantity ({quantity_str})")
 
+            unit_price = None
             try:
                 unit_price = float(unit_price_str)
             except ValueError:
-                error_lines.append(f"SKIPPED [transaction_id={transaction_id}] reason=non-numeric unit_price ({unit_price_str})")
-                continue
+                reasons.append(f"non-numeric unit_price ({unit_price_str})")
 
-            try:
-                quantity = int(quantity_str)
-            except ValueError:
-                error_lines.append(f"SKIPPED [transaction_id={transaction_id}] reason=non-numeric quantity ({quantity_str})")
-                continue
-
-            if quantity < 0:
-                error_lines.append(f"SKIPPED [transaction_id={transaction_id}] reason=negative quantity ({quantity})")
+            if reasons:
+                err_f.write(f"SKIPPED [transaction_id={transaction_id}] reasons={', '.join(reasons)}\n")
                 continue
 
             total_price = quantity * unit_price
-            # ignore small transactions
             if total_price < MIN_TRANSACTION_VALUE:
                 continue
 
@@ -61,13 +60,12 @@ def process_sales_file(filepath):
             summary[product]["units"]   += quantity
             summary[product]["orders"]  += 1
 
-    return summary, error_lines
+    return summary
 
 
 def build_report_rows(summary):
     report_rows = []
     for product, data in summary.items():
-        # avoid ZeroDivisionError if orders is ever 0
         avg_order_value = round(data["revenue"] / data["orders"], 2) if data["orders"] else 0.0
         report_rows.append({
             "product":         product,
@@ -81,7 +79,7 @@ def build_report_rows(summary):
 
 
 try:
-    summary, error_lines = process_sales_file(SALES_FILE)
+    summary = process_sales_file(SALES_FILE, ERROR_LOG_FILE)
 except FileNotFoundError:
     print(f"Error: {SALES_FILE} not found")
     raise SystemExit(1)
@@ -93,9 +91,6 @@ try:
         writer = csv.DictWriter(f, fieldnames=["product", "total_revenue", "total_units", "avg_order_value"])
         writer.writeheader()
         writer.writerows(report_rows)
-
-    with open(ERROR_LOG_FILE, "w") as f:
-        f.write("\n".join(error_lines) + "\n" if error_lines else "")
 except OSError as e:
     print(f"Error writing output files: {e}")
     raise SystemExit(1)
